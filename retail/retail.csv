@@ -1,0 +1,9 @@
+﻿Metric,Value,Description,External Factor,Impact on Business
+Monthly Sales Revenue,$2,000,000,Total revenue from product sales,GDP Growth (+3%),Increased consumer spending boosts sales
+Gross Margin,40%,Percentage of revenue remaining after accounting for cost of goods sold,Inflation (+2%),Reduced margins due to higher input costs
+Inventory Turnover,6x,Number of times inventory is sold and replaced in a year,Supply Chain Disruptions,Lower turnover due to stockouts or delays
+Customer Retention Rate,75%,Percentage of repeat customers,Market Sentiment (Bullish),Increased retention as consumers feel confident spending
+Operating Expenses,$500,000,Monthly fixed and variable operating costs,Labor Costs (+5%),Higher expenses due to wage increases
+Average Order Value (AOV),$150,Average amount spent per transaction,Consumer Confidence,Higher AOV if confidence is strong; lower during economic uncertainty
+Foot Traffic (Monthly),50,000,Number of visitors to physical stores,Online Competition,Decline in foot traffic if online competitors offer better deals
+Net Profit Margin,10%,Percentage of revenue converted into profit,Tax Policy Changes,Reduced profitability if taxes increase
