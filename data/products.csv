@@ -1,0 +1,56 @@
+product_id,category,product_name,price,launch_date
+P00001,Beverages,Coca-Cola,39.0,2022-05-10
+P00002,Beverages,Pepsi,37.47,2022-12-31
+P00003,Beverages,Sprite,40.79,2020-05-01
+P00004,Beverages,Orange Juice,74.5,2020-11-26
+P00005,Beverages,Apple Juice,79.35,2023-10-28
+P00006,Beverages,Milkshake,122.43,2020-05-10
+P00007,Beverages,Bottled Water,18.08,2022-02-08
+P00008,Beverages,Energy Drink,104.44,2023-12-08
+P00009,Beverages,Iced Coffee,141.37,2023-04-30
+P00010,Beverages,Green Tea,65.91,2023-03-30
+P00011,Beverages,Lemonade,67.26,2020-01-22
+P00012,Snacks,Potato Chips,18.03,2022-05-06
+P00013,Snacks,Corn Chips,19.16,2022-12-18
+P00014,Snacks,Popcorn,49.0,2021-11-30
+P00015,Snacks,Chocolate Bar,48.66,2020-07-08
+P00016,Snacks,Cookies,55.09,2022-08-15
+P00017,Snacks,Crackers,37.6,2023-06-21
+P00018,Snacks,Granola Bar,30.55,2023-02-28
+P00019,Snacks,Pretzels,42.88,2021-10-08
+P00020,Snacks,Nuts Mix,140.12,2020-06-15
+P00021,Snacks,Candy Pack,18.05,2021-08-23
+P00022,Snacks,Cheese Puffs,32.79,2020-08-29
+P00023,Dairy,Milk,48.85,2023-10-01
+P00024,Dairy,Cheese Block,183.91,2023-09-25
+P00025,Dairy,Yogurt,56.89,2022-08-13
+P00026,Dairy,Butter,73.95,2021-05-23
+P00027,Dairy,Sour Cream,96.0,2020-02-04
+P00028,Dairy,Cream Cheese,162.28,2023-11-12
+P00029,Dairy,Whipped Cream,115.48,2023-11-14
+P00030,Dairy,Ice Cream,188.32,2021-12-03
+P00031,Dairy,Eggs,74.79,2020-06-10
+P00032,Dairy,Almond Milk,97.9,2022-09-22
+P00033,Dairy,Greek Yogurt,122.35,2022-03-26
+P00034,Personal Care,Shampoo,144.8,2023-06-29
+P00035,Personal Care,Conditioner,136.36,2020-10-22
+P00036,Personal Care,Body Wash,128.27,2020-12-03
+P00037,Personal Care,Toothpaste,80.64,2022-03-02
+P00038,Personal Care,Deodorant,97.14,2022-02-02
+P00039,Personal Care,Face Wash,204.28,2021-05-07
+P00040,Personal Care,Moisturizer,278.46,2020-01-15
+P00041,Personal Care,Soap Bar,27.99,2021-06-04
+P00042,Personal Care,Hair Gel,126.53,2021-10-09
+P00043,Personal Care,Sunscreen,360.44,2023-03-08
+P00044,Personal Care,Razors,234.94,2021-01-26
+P00045,Household,Dish Soap,52.29,2020-10-15
+P00046,Household,Laundry Detergent,306.36,2020-08-18
+P00047,Household,All-Purpose Cleaner,103.02,2022-11-17
+P00048,Household,Paper Towels,214.52,2022-02-18
+P00049,Household,Trash Bags,241.54,2022-12-07
+P00050,Household,Sponges,38.97,2022-03-15
+P00051,Household,Air Freshener,156.89,2021-12-26
+P00052,Household,Bleach,64.65,2022-08-18
+P00053,Household,Fabric Softener,195.32,2021-10-04
+P00054,Household,Glass Cleaner,84.17,2023-05-26
+P00055,Household,Disinfectant Wipes,142.08,2021-02-01
